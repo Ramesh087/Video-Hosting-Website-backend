@@ -1,3 +1,4 @@
-# Backend from Chai or Code
+# Video Hosting Website Backend
 
-this is a project on a video streaming website
+
+Backend for a video hosting Website with mongoose ,express and node.js .
